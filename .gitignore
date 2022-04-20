@@ -13,7 +13,6 @@
 *.blg
 
 *.pdf
-!Main.pdf
 
 *.xdv
 
